@@ -25,6 +25,7 @@ public class Main {
             duck.swim();
             duck.performFly();
             duck.performQuack();
+            System.out.println();
         });
     }
 }
