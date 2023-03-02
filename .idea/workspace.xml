@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe8e1e4b-eace-4834-9587-d01e0fce2d30" name="Changes" comment="Feat: FlyBehavior 구현체 추가">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/FakeQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/MuteQuack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/Quack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/Squeak.java" afterDir="false" />
+    <list default="true" id="fe8e1e4b-eace-4834-9587-d01e0fce2d30" name="Changes" comment="Feat: QuackBehavior 구현체 추가">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/DecoyDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/MallardDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/ModelDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/RedheadDuck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/molruexception/strategy/ducks/RubberDuck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677724503007</updated>
-      <workItem from="1677724504426" duration="1071000" />
+      <workItem from="1677724504426" duration="1256000" />
     </task>
     <task id="LOCAL-00001" summary="Chore: JetBrain Annotation, Google guava 라이브러리 추가">
       <created>1677725242715</created>
@@ -88,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677725464660</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feat: QuackBehavior 구현체 추가">
+      <created>1677725590280</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677725590280</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +106,7 @@
     <MESSAGE value="Chore: JetBrain Annotation, Google guava 라이브러리 추가" />
     <MESSAGE value="Chore: Duck 인터페이스 구조 설계" />
     <MESSAGE value="Feat: FlyBehavior 구현체 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: FlyBehavior 구현체 추가" />
+    <MESSAGE value="Feat: QuackBehavior 구현체 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: QuackBehavior 구현체 추가" />
   </component>
 </project>
