@@ -2,7 +2,7 @@ package com.molruexception.strategy;
 
 import com.google.common.collect.Lists;
 import com.molruexception.strategy.duck.ducks.Duck;
-import com.molruexception.strategy.duck.ducks.FakeQuack;
+import com.molruexception.strategy.duck.quackbehaviors.FakeQuack;
 import com.molruexception.strategy.duck.ducks.ModelDuck;
 import com.molruexception.strategy.duck.flybehaviors.FlyNoWay;
 import com.molruexception.strategy.duck.quackbehaviors.RubberDuck;

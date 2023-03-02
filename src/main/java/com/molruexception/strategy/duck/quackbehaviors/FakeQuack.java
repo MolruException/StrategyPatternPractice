@@ -1,4 +1,4 @@
-package com.molruexception.strategy.duck.ducks;
+package com.molruexception.strategy.duck.quackbehaviors;
 
 import com.molruexception.strategy.duck.quackbehaviors.QuackBehavior;
 
