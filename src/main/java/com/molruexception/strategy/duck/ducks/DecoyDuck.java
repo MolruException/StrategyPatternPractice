@@ -1,4 +1,4 @@
-package com.molruexception.strategy.ducks;
+package com.molruexception.strategy.duck.ducks;
 
 public class DecoyDuck extends Duck {
 

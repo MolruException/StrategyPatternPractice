@@ -1,4 +1,7 @@
-package com.molruexception.strategy.ducks;
+package com.molruexception.strategy.duck.ducks;
+
+import com.molruexception.strategy.duck.flybehaviors.FlyBehavior;
+import com.molruexception.strategy.duck.quackbehaviors.QuackBehavior;
 
 public abstract class Duck {
 

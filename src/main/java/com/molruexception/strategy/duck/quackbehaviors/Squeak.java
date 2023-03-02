@@ -1,4 +1,4 @@
-package com.molruexception.strategy.ducks;
+package com.molruexception.strategy.duck.quackbehaviors;
 
 public class Squeak implements QuackBehavior {
 
